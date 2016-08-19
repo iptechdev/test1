@@ -13,6 +13,8 @@ namespace GitHubTest
 
             int test = 0;
 
+            test = 1;
+
         }
     }
 }
