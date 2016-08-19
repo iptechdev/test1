@@ -15,6 +15,8 @@ namespace GitHubTest
 
             test = 1;
 
+            test = 2;
+
         }
     }
 }
