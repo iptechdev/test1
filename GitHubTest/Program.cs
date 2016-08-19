@@ -10,6 +10,9 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
+
+            int test = 0;
+
         }
     }
 }
